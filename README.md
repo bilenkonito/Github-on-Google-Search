@@ -1,7 +1,7 @@
 # Github On Google Search
 A simple userscript that adds a button to your Google searches to only show results from Github.com. You can just click on the button and it will automatically add `site:github.com` to your search!
 
-![Img](screenshot.png)
+![Img](https://raw.githubusercontent.com/bilenkonito/Github-on-Google-Search/master/screenshot.png)
 
 ## Downloading the script
 The direct download link is here:
