@@ -17,5 +17,5 @@ The direct download link is here:
 **Other browsers:** you can look for a script manager extension in your browser add-ons page. Look for Tampermonkey or Greasemonkey and install them. Then go to the download link above and click on 'Install X.X'. Finally, click on 'install' in the new window that will open.
 
 ## Credit
-This project was inspired by marioortizmanero's [Reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google).  
-[This version](https://github.com/bilenkonito/Github-on-Google-Search) was forked from [Alexyoe's](https://github.com/Alexyoe) upstream [project](https://greasyfork.org/en/scripts/462358-github-search-on-google) in order to fix a bug with the regular non-image searchbar.
+* This project was inspired by marioortizmanero's [Reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google).  
+* [This version](https://github.com/bilenkonito/Github-on-Google-Search) was forked from [Alexyoe's](https://github.com/Alexyoe) upstream [project](https://greasyfork.org/en/scripts/462358-github-search-on-google) in order to fix a bug with the regular non-image searchbar.
